@@ -1,4 +1,8 @@
-"""This Python script will check a gmail account for unread emails. If an unread email is detected the script uses the serial library to output a '1' to the serial port which is picked up by an Arduino. The Arduino then turns on an LED to notify the user that they have an unread email.
+"""This Python script will check a gmail account for unread emails. 
+If an unread email is detected the script uses the serial library 
+to output a '1' to the serial port which is picked up by an Arduino. 
+The Arduino then turns on an LED to notify the user that they have 
+an unread email.
 
 Open Source under The MIT License
 
